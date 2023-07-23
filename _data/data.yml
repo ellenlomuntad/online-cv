@@ -8,38 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Test Only
-    tagline: Full Stack Developer
+    name: Ellen Jane Lomuntad
+    tagline: A Rockstar Software Quality Engineer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: ellen.lomuntad@gmail.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    timezone: Philippines/Manila Timezone
+    citizenship: Filipino
+    linkedin: ellen-jane-lomuntad
+    github: ellenlomuntad
+
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Filipino
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -57,118 +46,201 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An experienced and result-oriented Software Quality Assurance Engineer
+      with over 10 years of experience in testing software systems and ensuring
+      quality. Proficient in designing and executing test cases, identifying and
+      documenting defects, and collaborating with developers and stakeholders.
+      Skilled in using various testing tools and methodologies.
+      
+      An accomplished and innovative Process Improvement professional with
+      experience in analyzing, optimizing, and implementing business processes.
+      Skilled in using various tools and methodologies, such as Lean Six Sigma,
+      Business Process Improvement, Continuous Improvement, and Project Management.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Bachelor of Science in Computer Engineering
+        university: Colegio de Dagupan
+        time: 2002 - 2003
+      - degree: Associate in Computer Technology
+        university: Colegio de Dagupan
+        time: 2000 - 2002
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Software QA Tester
+        time: Sep 2022 - Present
+        company: VGW, Perth Australia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Test the functionality, performance and compliance of products
+              against product specifications to maintain strong development
+              standards and high customer satisfaction
+            - Design and execute automation tests for complex API test on back-end,
+              increasing test coverage.ullet point
+            - Improved overall test accuracy and efficiency by participating in test script reviews,
+              ensuring coding standards and best practices were met and followed
+            - Developed and maintained automated testing documentation, including test scenarios,
+              test plans, and requirements, improving project transparency and collaboration
+              with stakeholders.
+      - role: Software QA Tester
+        time: Jun 2019 - Aug 2022
+        company: VGW, Perth Australia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Perform various types of testing, such as Functional, Retesting, Regression,
+              Exploratory, Smoke Testing and User Acceptance Testing, on Desktop and Mobile
+              devices (iOS / Android) across different browsers
+            - Performed extensive user interface testing on Windows, Android and IOS mobile devices.
+            - Maintain and improve quality assurance deliverables and testing framework, including
+              creating and updating test plans and test cases based on requirements
+            - Design and execute complex testing for each project related to Math
+            - Carried out automated and manual test execution, delivering relevant test coverage.
+      - role: Planning and QA Chief
+        time: Feb 2018 - Jan 2019
+        company: Aiming Global Services, Inc, Philippines
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            - Manages Planning Team to ensure all in-game events, items, new features has been
+              completed before maintenance
+            - Responsible for enemies masterdata to make sure that the AI is working as intended
+            - Responsible for Lotto(Gacha) masterdata to make sure that all settings especially
+              the probability is correct
+            - Reviews all the test script result in jenkins and help the team to fix any errors found
+            - Manages QA Team to ensure timely completion of game testing as well as comprehensive
+              bug tracking and test reporting.
+            - Creation of Test Cases and Scenarios per project before launch, every maintenance
+              and new game features
+            - Regularly conduct game tests and research game testing practices to ensure smooth
+              functionality
+            - Recruit, hire, and manage an exceptional team of QA Engineers, with 4-6 direct reports
+      - role: Software Quality Assurance Chief
+        time: Oct 2013 - Feb 2018
+        company: Aiming Global Services, Inc, Philippines
+        details: |
+            - Manages Planning Team to ensure all in-game events, items, new features has been
+              completed before maintenance
+            - Responsible for enemies masterdata to make sure that the AI is working as intended
+            - Responsible for Lotto(Gacha) masterdata to make sure that all settings especially
+              the probability is correct
+            - Reviews all the test script result in jenkins and help the team to fix any errors found
+            - Manages QA Team to ensure timely completion of game testing as well as comprehensive
+              bug tracking and test reporting.
+            - Creation of Test Cases and Scenarios per project before launch, every maintenance
+              and new game features
+            - Regularly conduct game tests and research game testing practices to ensure smooth
+              functionality
+            - Recruit, hire, and manage an exceptional team of QA Engineers, with 4-6 direct reports
+            - Report and communicate the overall project status to project stakeholders.
+            - Conduct research and analysis of mobile games market insights, developing trends and
+              techniques to present to board of directors.
+            - Report and analyze KPI data. This also includes verifying queries and report templates
+              to ensure consistency and accuracy
+            - Responsible for critical processes like csv creation, game features using probability
+              and statistics; and game balance analysis
+      - role: Infrastructure Assistant Chief
+        time: Aug 2013 - Oct 2013
+        company: Aiming Global Services, Inc, Philippines
+        details: |
+            - Coordinate with the Project Manager based in Tokyo, Japan for new project's maintenance
+              procedure
+            - Maintain documents related to infrastructure for server error contact list, server
+              monitoring and KPI task
+            - Responsible for team members scheduling in consideration of daily task traffic.
+      - role: CS Assistant Section Chief
+        time: Jan 2013 - Aug 2013
+        company: Aiming Global Services, Inc, Philippines
+        details: |
+            - Coordinate with the Project Manager based in Tokyo, Japan for new project's maintenance
+              procedure
+            - Maintain documents related to infrastructure for server error contact list,
+              server monitoring and KPI task
+            - Manage Game's Facebook and Twitter Accounts
+            - Design product effective events and campaigns
+            - Report ticket issues received from players
+            - Ensure timely and thorough game testing as well as comprehensive bug tracking and reporting
+            - Report KPI data with analysis regarding the impact of events and marketing.
+      - role: Web Operations Team Lead
+        time: Jul 2012 - Jan 2013
+        company: Aiming Global Services, Inc, Philippines
+        details: |
+            - Coordinate with the Project Manager based in Tokyo, Japan for new project's maintenance
+              procedure
+            - Maintain documents related to infrastructure for server error contact list,
+              server monitoring and KPI task
+      - role: Loan Admin Operations Associate
+        time: Oct 2011 - May 2012
+        company: JPMorgan Chase HL Manila, Philippines
+        details: |
+            - Identify and classify loan documents captured within teh company's imaging operation
+            - Release the documents into the corporate image repository
+            - Demonstrate document knowledge and accurate classification
+            - Monitor overall image quality and provide feedback
+      - role: Tax Research Specialist
+        time: Oct 2009 - Oct 2011
+        company: American Data Exchange Corporation, Philippines
+        details: |
+            - Verify tax payments for client escrow loan holders and perform duties such as
+              researching complex tax issues, searching and investigating information contained in
+              multiple systems, and obtaining tax amounts from various taxing authorities across USA.
+              
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
+        - name: Lean Six Sigma White Belt in Information Technology
+          start: 2022
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Aveta Business Institute – Six Sigma Online
+          credentialid: H1AUyVcHs1
+          credentialurl: https://www.sixsigmaonline.org/
+          credentialname: Lean Six Sigma White Belter
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            The IT industry is an industry that truly relies on speed, accuracy, and quality control
+            in their processes. Unlike other companies with less pressure to improve processes or strategies,
+            IT organizations need to utilize their time wisely and make the most of their projects and processes.
+        - name: Automation Testing using Selenium & Cucumber
+          start: 2022
+          end:
+          organization: MSTCONNECT EDUCATIONAL CONSULTANCY
+          credentialid: 
+          credentialurl: https://mstconnectph.com/
+          credentialname: Automation Testing using Selenium & Cucumber
+          details: |
+            A 2 day Training about automation and hands-on from setup and how to automate a website
+            using Selenium and Cucumber
+        - name: TSTQB - CTFL
+          start: 2022
+          end:
+          organization: Skillsclub iSQI
+          credentialid: 22-CTFL-204933-12
+          credentialurl: https://app.skillsclub.com/credential/15813-131d677da0a7648a891ed42e8aea48bb90b9445d16583ca3c9bf6eb4b4558924?locale=en&badge=true
+          credentialname: ISTQB® Certified Tester Foundation Level (CTFL) 2018
+          details: |
+            The ISTQB® Certified Tester Foundation Level (CTFL) certification provides essential testing knowledge
+            that can be put to practical use and, very importantly, explains the terminology and concepts that are
+            used worldwide in the testing domain. CTFL is relevant across software delivery approaches and practices
+            including Waterfall, Agile, DevOps, and Continuous Delivery. A candidate who has achieved the Foundation
+            Level certification should be able to: • Promote efficient and effective communication by using a common
+            vocabulary for software testing • Understand fundamental concepts of software testing
+            • Demonstrate understanding of how different development and testing practices, and different constraints
+              on testing, may apply in optimizing testing to different contexts
+            • Contribute effectively in reviews
+            • Use established techniques for designing tests at all test levels
+            • Interpret and execute tests from given test specifications, and report on test results
+            • Understand test management principles for resources, strategies, planning, project control, and risk management
+            • Write and communicate clear and understandable defect reports
+            • Understand the project factors that drive the test priorities and test approach
+            • Understand the value that software testing brings to stakeholders
+            • Appreciate how testing activities and work products align with project objectives, measures, and targets
+            • Assist in the selection and implementation process of testing tool CTFL certification is recognized as a
+              prerequisite to all other ISTQB® certifications where Foundation Level is required.
+        - name: Sumo Logic Fundamentals Certified
+          start: 2022
+          end: 2024
+          organization: Sumo Logic
+          credentialid: zouq7a8deasm
+          credentialurl: https://verify.skilljar.com/c/zouq7a8deasm
+          credentialname: Sumo Logic Certified
+          details: |
+            Completed the Sumo Logic Certification requirements, demonstrating proficiency in the use of Sumo Logic 
         
 projects:
     title: Projects
