@@ -181,12 +181,12 @@ experiences:
             - Verify tax payments for client escrow loan holders and perform duties such as
               researching complex tax issues, searching and investigating information contained in
               multiple systems, and obtaining tax amounts from various taxing authorities across USA.
-
+              
 certifications:
       title: Certifications
       list:
         - name: Lean Six Sigma White Belt in Information Technology
-          start: Jul 2022
+          start: 2022
           end:
           organization: Aveta Business Institute – Six Sigma Online
           credentialid: H1AUyVcHs1
@@ -197,7 +197,7 @@ certifications:
             in their processes. Unlike other companies with less pressure to improve processes or strategies,
             IT organizations need to utilize their time wisely and make the most of their projects and processes.
         - name: Automation Testing using Selenium & Cucumber
-          start: May 2022
+          start: 2022
           end:
           organization: MSTCONNECT EDUCATIONAL CONSULTANCY
           credentialid: 
@@ -207,7 +207,7 @@ certifications:
             A 2 day Training about automation and hands-on from setup and how to automate a website
             using Selenium and Cucumber
         - name: TSTQB - CTFL
-          start: Mar 2022
+          start: 2022
           end:
           organization: Skillsclub iSQI
           credentialid: 22-CTFL-204933-12
@@ -233,8 +233,8 @@ certifications:
             • Assist in the selection and implementation process of testing tool CTFL certification is recognized as a
               prerequisite to all other ISTQB® certifications where Foundation Level is required.
         - name: Sumo Logic Fundamentals Certified
-          start: Jan 2022
-          end: Jan 2024
+          start: 2022
+          end: 2024
           organization: Sumo Logic
           credentialid: zouq7a8deasm
           credentialurl: https://verify.skilljar.com/c/zouq7a8deasm
